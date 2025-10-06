@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Install command-line tools and apps
 # https://github.com/mathiasbynens/dotfiles/blob/main/brew.sh
