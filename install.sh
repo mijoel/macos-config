@@ -7,6 +7,7 @@ brew install awscli
 brew install gh
 brew install github
 brew install jq
+brew tap common-fate/granted
 brew install granted
 
 
