@@ -9,6 +9,7 @@ brew install github
 brew install jq
 brew tap common-fate/granted
 brew install granted
+brew install sops
 
 
 # Terraform

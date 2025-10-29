@@ -18,3 +18,6 @@ alias audit="assume -c audit"
 export PATH="$PATH:/Users/mihkeljoela/.local/bin"
 alias plan="tofu plan -lock=false"
 alias init="tofu init -reconfigure"
+alias login="aws sso login --sso-session main"
+alias assume=". assume"
+export EDITOR=nano
