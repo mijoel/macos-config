@@ -29,3 +29,7 @@ brew install --cask intellij-idea #need to automate settings and tools etc.
 brew install --cask notion
 brew install --cask rectangle #todo set up shortcuts
 brew install --cask zoom
+
+# Mac App Store apps
+brew install mas
+mas install 1607635845 # Velja - routes default-browser URLs to a chosen Chrome profile
