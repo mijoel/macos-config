@@ -7,7 +7,10 @@ DOTFILES=(
 	".config/aerospace"
 	".gitconfig"
 	".bash_profile"
+	"bin/chrome-montonio"
 )
+
+mkdir -p "${HOME}/bin"
 
 for dotfile in "${DOTFILES[@]}"; do
 	rm -rf "${HOME}/${dotfile}"
